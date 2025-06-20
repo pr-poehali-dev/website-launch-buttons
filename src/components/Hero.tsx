@@ -6,8 +6,7 @@ const Hero = () => {
     <section className="bg-slate-900 text-white py-20 lg:py-32">
       <div className="container mx-auto px-6 text-center">
         <h1 className="text-4xl lg:text-6xl font-bold font-montserrat mb-6 leading-tight">
-          Бизнес-консалтинг <br />
-          <span className="text-blue-400">нового уровня</span>
+          быстро и не заметно спрячем
         </h1>
 
         <p className="text-xl lg:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto font-light">
