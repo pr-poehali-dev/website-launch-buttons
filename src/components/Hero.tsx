@@ -3,7 +3,7 @@ import Icon from "@/components/ui/icon";
 
 const Hero = () => {
   return (
-    <section className="bg-slate-900 text-white py-20 lg:py-32">
+    <section className="bg-green-600 text-white py-20 lg:py-32 pb-0">
       <div className="container mx-auto px-6 text-center">
         <h1 className="text-4xl lg:text-6xl font-bold font-montserrat mb-6 leading-tight">
           быстро и не заметно спрячем
