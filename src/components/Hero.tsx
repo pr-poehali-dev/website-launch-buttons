@@ -9,11 +9,6 @@ const Hero = () => {
           быстро и не заметно спрячем
         </h1>
 
-        <p className="text-xl lg:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto font-light">
-          Трансформируем ваш бизнес с помощью стратегического мышления,
-          инновационных решений и проверенных методологий
-        </p>
-
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
           <Button
             size="lg"
