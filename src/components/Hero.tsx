@@ -22,6 +22,7 @@ const Hero = () => {
             size="lg"
             variant="outline"
             className="border-2 border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-slate-900 px-8 py-4 text-lg font-semibold transition-all duration-300 hover:scale-105"
+            onClick={() => window.open("https://t.me/xxx_fac", "_blank")}
           >
             <Icon name="MessageCircle" size={20} className="mr-2" />
             Связаться в Telegram
